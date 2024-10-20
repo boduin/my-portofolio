@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('assets/hi.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
+    background-color:rgba(128, 128, 128, 0.251)
+}
+
+#hero {
+    
+    background-color:powderblue
+    
+}
+
+#about img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+#portfolio .card {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #343a40;
+}
